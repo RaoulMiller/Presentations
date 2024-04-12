@@ -5,6 +5,8 @@
 
  Some Recent Blog posts:
 
+ https://blogs.oracle.com/research/post/machine-learning-clinical-studies-some-cautionary-tales
+
  https://blogs.oracle.com/research/post/the-top-5-ways-the-cloud-supports-sustainability-in-research
 
  https://blogs.oracle.com/research/post/expand-your-compute-capacity-with-cloud-bursting-for-research-workloads
